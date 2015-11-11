@@ -11,5 +11,5 @@ It might be done again in the future, but there is no 2013 project planned.
 
 There is a little bit of everything: PHP, AJAX, jQUERY etc.
 
-Notice the maps with pins for the compared properties. If you click "Big Map" then change to aerial view,
+Notice the (Microsoft) maps with pins for the compared properties. If you click "Big Map" then change to aerial view,
 a shift-right-click on a house will attempt to fill in the address of the clicked-on house.
