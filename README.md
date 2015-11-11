@@ -1,7 +1,7 @@
 Memphis, TN, Real Estate Reappraisal 2009
 =========================================
 
-DEMO: <a href="http://realestate2009.herokuapp.com">http://realestate2009.herokuapp.com</a>
+DEMO: <a href="http://tnmem.com:8084">http://tnmem.com:8084</a>
 
 Not included in the repo is a 100MB mysql database, but it is public data available on request.
 The main problem with the Shelby County data was the addresses. They had to be normalized to work with maps.
